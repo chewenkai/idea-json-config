@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.chewenkai.ideajsonconfig.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.chewenkai.ideajsonconfig.MyBundle
 
 class MyApplicationService {
 
